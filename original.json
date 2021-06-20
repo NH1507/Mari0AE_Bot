@@ -1,0 +1,1798 @@
+{
+	"origin": 
+		["#name# should add #object.s# from #game# to #mari0#!",
+		"#name# should #presenttenseverb# #object.s# from #mari0#!",
+     
+		"#name# add #object.s# from #game# to #mari0# pls",
+		"#name# #presenttenseverb# #object.s# from #mari0# pls",
+
+     
+		"You forgot to add #object.s#!",
+		"You forgot to #presenttenseverbsheesh# #object.s#!",
+
+		"You forgot to add #object.s# #name#",
+		"You forgot to #presenttenseverbsheesh# #object.s# #name#",
+
+
+		"Can you add #objectsthe# in #version#?",
+		"Can you #presenttenseverb# #objectsthe# in #version#?",
+
+		"Add #object.s# in next update",
+		"#presenttenseverb.capitalize# #object.s# in #version#",
+
+
+		"Can you please add #object.s# I don't have time for this all day!",
+		"Can you please #presenttenseverbsheesh# #object.s#? I don't have time for this all day!",
+
+		"pls add #object.s#? I don't have time for this all day",
+		"pls #presenttenseverbsheesh# #object.s#? I don't have time for this all day",
+
+
+		"Sheesh. You need to add #object.s# for real this time since you removed it!",
+		"Sheesh. You need to add #object.s# for real this time since you #pasttenseverbsheesh# it!",
+		"Sheesh. You need to #presenttenseverbsheesh# #object.s# for real this time since you removed it!",
+		"Sheesh. You need to #presenttenseverbsheesh# #object.s# for real this time since you #pasttenseverbsheesh# it!",
+
+		"Can you add #mari0# to #devices#? I'm sick of playing on #devicesandroidorpc#!",
+		"Can you #presenttenseverbdevices# #mari0# to #devices#? I'm sick of playing on #devicesandroidorpc#!",
+
+
+		"You really did forget about the #object# idea.",
+		"You really did #presenttenseverbidea# #object# idea.",
+
+
+		"#name# really should make #game# DLC for his mod!",
+
+		"#name# make #game# DLC!!",
+
+
+		"#character.capitalize# #characterneedsorcannot# be a default character in #version#!",
+
+		"#character.capitalize# #characterneedsorcannot# be character!",
+
+
+		"What is your income from your #object#, fool",
+		"What is your income from you #object#, fool",
+
+		"What Is Your Income From You #object#, Fool",
+		"What Is Your Income From Your #object#, Fool",
+
+
+		"#name# needs to add more interactions with #object.s# with the #game# elements!",
+
+		"#name# needs to fix #object.s# when playing with #game# elements!",
+
+
+		"What I'm telling you about removing #object.s# is horrendous! #game# does have #object.s# in the freaking game.",
+		"What I'm telling you about #presenttenseverbing# #object.s# is horrendous! #game# does have #object.s# in the freaking game.",
+
+
+		"#name# should add #objectsthe# from #game#!",
+
+
+		"It wouldn't be a mod #withorwithout# #objects#.",
+		"Can you add #object.s# from #game#? There wouldn't be a mod #withorwithout# #object.s#.",
+
+
+		"Well I was jealous of the opinion that you can make DLC #game#, please when you have time",
+		"Well I was jealous of the opinion that you can make #object.s# please when you have time",
+
+
+		"Good when you have time Add missing worlds in #game# and make DLC named #game# Wake me up",
+
+
+		"Can't you just make #object.s# as a custom enemy? It should be easy!",
+
+
+		"#name# pls add #object#",
+		"#name# pls #presenttenseverb# #object#",
+
+
+		"All you guys care is \"#object.s# this, #object.s# that\". I just giving a suggestion for the mod, sheesh!",
+
+
+		"#name# should add a cheat based on #object.s# !",
+		"#name# should add a cheat based on #game#!",
+
+
+		"We need a #object# cheat",
+		"We need a #game# cheat",
+
+
+		"#name# add #object# to #mari0#!!!!",
+		"#name# #presenttenseverb# #object# to #mari0#!!!!",
+
+
+		"#name# add #character# the #character#???",
+		"#name# #presenttenseverb# #character# the #character#???",
+
+
+		"#name# YOU MUST ADD\n\n #object#.\n\n thats it",
+		"#name# YOU MUST ADD\n\n #object.s#.\n\n thats it",
+		"#name# YOU MUST REMOVE\n\n #object#.\n\n thats it",
+		"#name# YOU MUST REMOVE\n\n #object.s#.\n\n thats it",
+
+
+		"#name# just let people use #programlang# in their #object.s# pls",
+
+
+		"#name# pls add #object#",
+		"#name# pls #presenttenseverb# #object#",
+
+
+		"#name#, I found this DLC that #dlcthatdoes##dlcthat#",
+		"#name#, I found this DLC that #dlcthatdoes##dlcthat#",
+		"#name#! I found this DLC that #dlcthatdoes##dlcthat#",
+		"#name#! I found this DLC that #dlcthatdoes##dlcthat#",
+		"#name#. I found this DLC that #dlcthatdoes##dlcthat#",
+
+		"Pls add support for #devices#",
+		"Pls #presenttenseverb# support for #devices#",
+
+
+		"Will it have #object.s# #name#",
+		"Will it have #object.s# in #version# #name#???",
+
+
+		"I need #object.s#. (Also #object.s#) for #mari0#. Can you show me where I can find them?",
+
+
+		"pls ad #character# at lest",
+		"pls remov #character# at lest",
+
+
+		"Also you should add #object.s# so you don't have to do the thing to prevent the main game from crashing.",
+
+
+		"you forgot to add a #object# as enemy",
+		"you #pasttenseverb# to add a #object# as enemy",
+		"you forgot to #presenttenseverb# a #object# as enemy",
+		"you #pasttenseverb# to #presenttenseverb# a #object# as enemy",
+
+
+		"#name# are you going to #presenttenseverb# the #object.s# in #version#????",
+
+
+		"#name# #presenttenseverb# the #object.s#!!!!",
+
+
+		"Why hasn't #name# made a #object# entity yet!!?!",
+
+
+		"#name# should make DLC based on #game#!",
+		"#name# should make DLC based on #object.s#!",
+		"#name# should make DLC based on #character#!",
+
+
+		"Why isn't there #game# DLC yet?!?!",
+		"Why isn't there #character# DLC yet?!?!",
+
+
+		"Every time I use the #cheat# cheat my game crashes, #name# go fix!",
+
+
+		"Why isn't the #cheat# cheat an option for my mappack?!",
+		"Why isn't the #cheat# cheat an option in the level editor?!",
+
+
+		"We really need #object.s# #name#!",
+
+
+		"Why no #object# yes, it is so improtant",
+
+
+		"smh my head remove #object.s#",
+		"smh my head #presenttenseverb# #object.s#",
+
+
+		"#object.s# should be replaced with the ones from #game#",
+
+
+		"#name# in #version# plz give #object# and #object# cheat",
+     
+
+		"This is good but #object.s# don't work, any help?????",
+
+
+		"Can you add #object# functionality?",
+		"Can you #presenttenseverb# #object# functionality?",
+
+
+		"Will there be #object.s#.",
+
+
+		"I love it just one thing is there #object.s# and if not can you make one please.",
+
+
+		"we need #object.s#> :(",
+		"we need #object.s##emoticonweneed#",
+
+
+		"When I loaded the #game# DLC everything was there, but the #character# player sprite was missing.",
+		"When I loaded the #game# DLC everything was there, but the #object.s# were missing.",
+ 
+
+		"how do you make a #object#?",
+
+
+		"#name# plz give #object.s# !",
+
+
+		"#name# should definitely make a #object# mod for #mari0#",
+
+
+		"Why have #object.s# when we got the amazing #object#",
+		"Why have #object.s# when we have the amazing #object.s#",
+
+
+		"Why no add #object.s# ",
+		"Why no #presenttenseverb# #object.s#",
+
+
+		"Thank you #name# for adding #object.s# to #mari0#.",
+		"Thank you #name# for #presenttenseverbing# #object.s# to #mari0#.",
+
+		"Thank you #name# for adding #object.s# to #mari0#. Now add #object.s#.",
+		"Thank you #name# for adding #object.s# to #mari0#. Now remove #object.s#.",
+		"Thank you #name# for #presenttenseverbing# #object.s# to #mari0#. Now #presenttenseverb# #object.s#.",
+
+
+		"#name# should add #object.s#, #object.s#, #object.s#, and everything from #game# to #mari0#!",
+		"#name# should #presenttenseverb# #object.s#, #object.s#, #object.s#, and all the #game# elements!",
+
+
+
+		"I think #name# forgot to add #object.s#!",
+		"I think #name# forgot to #presenttenseverb# #object.s#!", 
+
+
+		"#name#. Add #object.s#. Now.",
+		"#name#. #presenttenseverbcaps# #object.s#. Now.",
+
+
+		"Okay, but I want to play #mari0# on my #devices#. #name#, add support for it now!",
+
+
+		"#name#, I need a custom #powerorentity# that makes Mario throw #object.s#. Can you make it for me?",
+		"#name#, I need a custom #powerorentity# that makes #character# throw #object.s#. Can you make it for me?",
+
+
+		"#name# needs to make DLC based on #game#!",
+
+
+		"When I use the #object.s# with #ent#, it crashes. #name#, go fix this!",
+		"When I use the #object.s# with #ent#, it crashes. #name#, go fix this!",
+		"When I use the #object.s# with #ent#, it crashes. #name#, go fix this!",
+
+
+		"smh head why can't the #object.s# have a spritesheet",
+		"Why can't the #object.s# have a spritesheet, the #object.s# have one!!",
+
+
+		"Give us #object.s# already #name#",
+
+
+		"#name# you should add #object# in #mari0#",
+
+
+		"#name# i need add #object.s# /#object.s#  now",
+		"#name# n need add #object.s# /#object.s#  mnpow",
+
+
+		"smh why hasent #name# added #object.s# yet",
+
+
+		"#name# needs to update #object.s#!",
+		"#name# needs to update #character#!",
+		"#name# needs to update the #game# DLC!",
+
+
+		"#devices.capitalize# version coming soon?",
+
+
+		"idea:\n#version# #object.s# UPDATE",
+
+
+		"MAKE #game.capitalizeAll# WITH DIS",
+
+
+		"#object.s.capitalize# in #mari0# when?",
+
+
+		"#timespan.capitalize# I suggested #object.s#, why aren't they in #mari0# yet!!!!",
+
+
+		"smh #mari0# isn't accurate to the #devices#! #name# needs to add #object.s# to make it more accurate!",
+		"smh #mari0# isn't accurate to #game#! #name# needs to add #object.s# to make it more accurate!",
+
+
+		"Can you pls make texture #game# in #mari0#??",
+
+
+		"I would like #name# to put the #object# and other things in #version#",
+
+
+		"Try to release an update with #object.s# or #object.s#",
+
+
+		"Can you make #version# final major add #object.s# and #object# and more settings please",
+		"Can you make #version# final major add #object.s# and #object# and more #object.s# please",
+
+
+		"Add #game# and #game# and #game# style please",
+
+
+		"How to make a #object#?",
+		"How to make a #game# #object#?",
+
+
+		"#object# in #mari0# #version# pls",
+
+
+		"Make custom #object# #object.s# and #object.s# and more enemies",
+		"Make custom #object# #object.s# and #object.s# and more #object.s#",
+
+
+		"Please add #object# and #object# pls",
+
+
+		"Pls link #game# character",
+
+
+		"Add power #object# #character# #mari0# update #version# final major and add flying all #object.s#",
+
+
+		"Rember your #character# custom character how about make all the entites in #mari0# into a playable character if its done it will be in the zip called playable entites",
+		"Rember your #character# custom character how about make all the entites in #mari0# into a playable character if its done it will be in the zip called playable #object.s#",
+		"Rember your #character# custom character how about make all the #objects# in #mari0# into a playable character if its done it will be in the zip called playable #object.s#",
+
+
+		"If you added the #object# that it says, I hope that you read it to put it, it would make me happy and you could also add the #object#, right? oh the #object# #game# please let me know for the next update and see if you will put them",
+
+
+		"#name# added #object.s# i requested?",
+
+
+		"My favorite entity is #object# but they weren't in #mari0#, why??",
+		"My least favorite entity is #object# but they are in #mari0#, why??",
+
+
+		" i suggested world maps #timespan# but they're not in v13?? for why?",
+
+
+		"#object# is broken, fix them please",
+
+
+		"Hello\nDid you have #object# model and texture\nIf have can you give It pls?",
+
+
+		"new #mari0# update\n#object# #pasttenseverb#",
+
+
+		"Where is the #object# suggestion.",
+
+
+		"Sheesh. I suggested #object.s# having abilities, but this random person did it before me. Ugh.",
+
+
+		"#name# add the #object#, wait no remove it pls!!!!!!!1!!!!1!",
+		"#name# #presenttenseverb# the #object#, wait no #presenttenseverb# it pls!!!!!!!1!!!!1!",
+
+
+		"#object# in #mari0#?",
+
+
+		"#name#, add #object.s# that can become the player colors in a future update, pls",
+		"#name#, add #object.s# that can become the player colors in #version#, pls",
+
+
+		"Hi please make #character# skin end voice for #game# thx you",
+
+
+		"In #mari0# is there the #object#?",
+
+
+		"WHY ISN'T #character# A PLAYEBLE CHARECTER?",
+
+
+		"Yes make #object# playeble charcacter",
+
+
+		"remove the #object.s# #name#!!!!!!!!",
+		"#presenttenseverb# the #object.s# #name#!!!!!!!!",
+
+
+		"no we don't need #object#",
+
+
+		"#name# needs 2 add #object# 2 #mari0#!",
+
+
+		"hey since #game# will be #game# with #object.s# will #game# be dlc?",
+
+
+		"also will #character# be dlc in #game# + #mari0# hmmm???",
+
+
+		"Yes #name# must add #object#",
+		"Yes #name# must #presenttenseverb# #object#",
+
+
+		"#game# in #mari0#",
+
+
+		"We need #name# to add #object# to #mari0#",
+		"We need #name# to #presenttenseverb# #object# to #mari0#",
+
+
+		"i wonder why it's taking so long to #name# to add the #object# in #mari0#, the game already has lots of #game# content, why not this",
+
+
+		"#mari0# #game# pls",
+
+
+		"Please #character# is #month# #mari0# #version#",
+
+
+		"will there is #objects#?",
+
+
+		"Add #object.capitalize# Suit And #object.capitalize# Suit",
+		"Remove #object.capitalize# Suit And #object.capitalize# Suit",
+
+
+		"We need #object.s# from #game#",
+
+
+		"#name# we need #object.s# and #object.s# and also need to add #objects#!",
+		"#name# we need #object.s# and #object.s# and also need to #presenttenseverb# #object.s#!",
+
+
+		"why can't #object# be a powerup",
+
+
+		"#timespan# I played the #dlc# DLC, but the #object.s# didn't load.",
+		"#timespan# I played the #dlc# DLC, but the #object.s# were corrupted.",
+		"#timespan# I played the #dlc# DLC with the #character# custom character, but the game crashed when I did.",
+		"#timespan# I played the #dlc# DLC, but when I went back to the level editor I couldn't place any #object.s#.",
+		"#timespan# I played the #dlc# DLC, but I noticed there was no #object.s#.",
+		"#timespan# I played the #dlc# DLC, but there seemed to be a lack of #object.s#.",
+		"#timespan# I played the #dlc# DLC, but I was dissapointed to find no #object.s#.",
+		"#timespan# I played the #dlc# DLC, but there was a lot of #object# spam.",
+		"#timespan# I played the #dlc# DLC, but there was a lot of #object# spam, #name# go fix this!",
+		"#timespan# I played the #dlc# DLC, but there was a lot of #object.s#.",
+		"#timespan# I played the #dlc# DLC, but it was way too difficult!",
+		"#timespan# I played the #dlc# DLC.",
+
+		"I played the #dlc# DLC #timespan#, but the #object.s# didn't load.",
+		"I played the #dlc# DLC #timespan#, but the #object.s# were corrupted.",
+		"I played the #dlc# DLC #timespan# with the #character# custom character, but the game crashed when I did.",
+		"I played the #dlc# DLC #timespan#, but when I went back to the level editor I couldn't place any #objects#.",
+		"I played the #dlc# DLC #timespan#, but I noticed there was no #object.s#.",
+		"I played the #dlc# DLC #timespan#, but there seemed to be a lack of #object.s#.",
+		"I played the #dlc# DLC #timespan#, but I was dissapointed to find no #object.s#.",
+		"I played the #dlc# DLC #timespan#, but there was a lot of #object# spam.",
+		"I played the #dlc# DLC #timespan#, but there was a lot of #object# spam, #name# go fix this!",
+		"I played the #dlc# DLC #timespan#, but there was a lot of #object.s#.",
+		"I played the #dlc# DLC #timespan#, but it was way too difficult!",
+		"I played the #dlc# DLC #timespan#.",
+
+		"why can't #object# be supersized",
+		"why can #object# be supersized",
+		"why can't i put #object# on a track",
+		"why can i put #object# on a track",
+		"why can't #object# go in a clear pipe",
+		"why can #object# go in a clear pipe",
+
+
+		"#character# from #game# should be in #mari0#",
+
+
+		"The sprites for #objectsthe# look pretty lazy, #name# should make them look better!",
+		"The sprites for #character# look pretty lazy, #name# should make them look better!",
+
+		"I submitted better sprites for #objects# to #name#, but he said that they look bad! Why?!?!?!",
+		"I submitted better sprites for #character# to #name#, but he said that they look bad! Why?!?!?!",
+
+
+		"when will #mari0# #version# come out",
+
+
+		"#objects# soon??",
+
+
+		"Next thing: Can you make #game# the DLC in #mari0#?",
+
+
+		"#name# should make #object.s# from #game# for your entities, #name#!\nEveryone needs this enemy!",
+
+
+		"I've got a request.\n\nCan you please make a #object# from #game#?",
+
+
+		"BTW, can you create #object.s# from #game#?",
+
+
+		"Could #name# make #object.s# and #object.s#?\nPlease?",
+
+
+		"Could someone create a #object#?\nPlease?",
+
+
+		"My idea for #name#'s mod are #objects# and #object.s#.",
+
+
+		"Say, #name#.\nCan you add #object.s# from #game#?\nThere wouldn't be a mod without #game#.",
+
+
+		"Well, #name#.\nI've got an entity request for your mod.\n\n#object# and #object.s#!",
+
+
+		"Hey #name#, I suggest #object.s#, please?",
+
+
+		"Here are the requests for #name#:\n#object.s#\n#object.s#\n#object.s#\n#object.s#",
+
+
+		"Kinda looks neat with #object.s# and #object.s#. But the #object.s# are missing in this mod. Plus the #object# is pretty broken.",
+
+
+		"Would you add #object.s# and #object.s# for #version#, #name#?",
+
+
+		"Hey #name#?\nAre you going to add #object.s# to the next update? (#game# has them)",
+
+
+		"BTW, can you make #object.s# from #game#?",
+
+
+		"#name#? Would you add #object.s# form #game# in #version#?",
+
+
+		"Speaking of downloads. Where's the #object# version?",
+
+
+		"Here's the suggestion for you: Make #object#s please?",
+
+
+		"Would you add #object# too?",
+
+
+		"Looks neat! Also you forgot #objectsthe#.",
+
+
+		"You forgot to add #objectsthe#!",
+
+
+		"Request: Would you please add a #object# tile property?",
+
+
+		"That's gives me something that needs to be added. Heavy Fire Bros, #object.s#, and #object.s#. I've also got new sprites for #object.s# and #object.s#.",
+
+
+		"You forgot to change the sprites for #object.s# and #object.s# to make them look like from SMM and adding an option for the #object.s# to turn into the #object.s# From SMM2.",
+		"You forgot to change the sprites for #object.s# and #object.s# to make them look like from #game# and adding an option for the #object.s# to turn into the #object.s# From #game#.",
+
+
+		"The #object.s# and #object.s# sprites don't even look like their SMM counterparts.",
+		"The #object.s# and #object.s# sprites don't even look like their #game# counterparts.",
+
+
+		"#name# plz add #object.s#",
+
+
+		"Wouldn't it be so cool if #name# made #object.s# in #mari0#",
+
+
+		"#presenttenseverb# all your #object.s#",
+		"Give me all your #object.s#",
+
+
+		"Yeah make a #object# that can hurt Mario and stuff, yea",
+		"Yeah make a #object# that can hurt entities and stuff, yea",
+		"Yeah make a #object# that can hurt #object.s# and stuff, yea",
+		"Yeah make a #object# that can hurt #character# and stuff, yea",
+
+
+		"#name.capitalizeAll# I TOL U AD #game.capitalizeAll# AN #game.capitalizeAll# DLC!!!!!!",
+
+
+		"#name.capitalizeAll# HELLP ME MAK #game.capitalizeAll# MAPAK",
+
+
+		"#name.capitalizeAll# I CAN OT MAKE #object.capitalizeAll# ENMI!!!",
+
+
+		"#object#",
+		"#character#",
+		"#name#",
+   		"#name#!!!",
+		"#game#",
+		"#dlc#",
+
+
+		"#name# i am giveeng u on mor chanc, giv me #object# enmy.",
+
+
+		"#name.capitalizeAll# GIV ME #object.capitalizeAll# OR GVE ME DEATF!!!!",
+
+
+		"#name# plezz ad #object# to #mari0#",
+
+
+		"#name.capitalizeAll# GIV #character.capitalizeAll# CAHRATECR NAO",
+
+
+		"#name.capitalizeAll# HOW TO #object.capitalizeAll#?!?!?!?!??!? POW!!!!!!! POW!!!!!!!!!!!!!!!",
+		"#name.capitalizeAll# HOW TO #object.capitalizeAll#?!?!?!?!??!?",
+
+
+		"Okay, but what if I want to play #mari0# on my #devices#? I can't believe #name# hasn't added support for it yet!",
+
+
+		"#name# needs to make a tutorial on how to make #object.s#!",
+		"#name# needs to make a tutorial on how to make #object.s#! (It's too confusing!)",
+
+
+		"Why is it so difficult to make #object.s#?! #name# needs to make it easier!",
+
+
+		"Why can't I place any #object.s# in the editor?!",
+
+
+		"When I play with #object.s# on #devices#, it crashes but it doesn't on #devices#? This needs to be fixed!",
+		"When I play with #object.s# on #devices#, it crashes but it doesn't on #devices#? This doesn't make sense, it needs to be fixed!",
+
+
+		"#object# as object",
+		"#character# as character",
+
+
+		"There's a #object# in my house?!",
+		"There's a #object# in my house?! (Somebody help!!!)",
+
+
+		"Okay, I get it, Balloon Goomba this, Balloon Goomba that. But when do we get Balloon #object.s.capitalize#?",
+
+
+		"It would be horrible if #name# added #objects# to #mari0#!",
+
+
+		"Thanks for adding #object.s# #name#!\nWe really needed those!",
+		"Thanks for adding #object.s# #name#!\nI really wanted those!!",
+		"Thanks for removing #object.s# #name#!\nWe really didn't need those!",
+
+
+		"#name# added #object.s# but what we really need added is #object.s#!",
+		"#name# removed #object.s# but what we really need removed is #object.s#!",
+
+
+		"The sprites for #object.s# look pretty bad!",
+		"The spriees for #object.s# look prety bad, I wil try and fixx them",
+
+		"Oh look it's #object# from #game#!",
+		"Oh look it's #character# from #game#!",
+
+
+		"#name# added #object#!!!!! that's so dumb!!!!!!!!!!!!",
+
+
+		"Are you really going to #presenttenseverbidea# #object# in #version# #name#?!",
+		"Are you really going to #presenttenseverbidea# #character# in #version# #name#?!",
+
+
+		"What if #character# had the #object#",
+		"What if #character# had an #object#",
+		"What if #character# had the Infinity Gauntlet{img https://i.imgur.com/jjBglM3.png}",
+
+		"#object# sucks",
+		"#character# sucks",
+		"#game# sucks",
+
+
+		"#object# is awesome",
+		"#character# is awesome",
+		"#game# is awesome",
+		
+
+		"Can I give some entity suggestions? \n \n#object# (#game#) \n#object# (#game#) \n#object# (#game#) \n#object# (#game#) \n#game# bosses \n#object# (#game#)",
+
+
+		"I hate #object#!!!! It's the worst object ever!!!!!!!!!#kidding#",
+		"I hate #object#!!!! It's the worst addition ever!!!!!!!!!#kidding#",
+
+		"I LOVE #object.capitalizeAll#!!!! It's the most greatest object ever!!!!!!!!!",
+		"I LOVE #object.capitalizeAll#!!!! It's the most greatest addition ever!!!!!!!!!",
+     
+    
+		"#name# go updaatae",
+     
+    
+		"#name# should make a #object# variant of the #object# entity!",
+    
+		"#name# should make a #object# variant of the #character# character!",
+     
+     
+    "Are you really going to #presenttenseverb# the #object# in #version# #name#?!",
+    "Are you really going to #presenttenseverb# the #character# in #version# #name#?!",
+     
+    
+    "Did #name# really #presenttenseverbidea# #object#?!",
+    "Did #name# really #presenttenseverbidea# #character#?!",
+     
+     
+    "I suggested this before, and I'll say it again. #name# needs to #presenttenseverb# #object.s#!",
+    "I suggested this before, and I'll say it again. #name# needs to #presenttenseverb# #character#!",
+
+    "ADD #game.capitalizeAll# NOW I NEDD",
+     
+    "cant find the file to the #game# mappack",
+     
+    
+    "Delete #programlang.capitalize.s# from #mari0#.",
+     
+    "WY CNAT #object.capitalizeAll# HAVE A UNKIE EXPLOSEION #name.capitalizeAll# GO FIX",
+     
+    "LOL",
+    
+    "LOL\n#name.capitalizeAll#",
+    
+    "Y CANNIT #object.capitalizeAll# HAVE UNIQUE SPREET\nFEEEEEX NO",
+     
+    "#name# add #object# for #mari0# plz",
+     
+     
+    "#object#!\n#name# pls fixen it!1!11!!",
+     
+    "#object#\nPls #name# add itb",
+     
+    "#name.capitalizeAll# GIVE #object.capitalizeAll#",
+     
+    "we need better #object# support",
+     
+    "#name.capitalize# gives us #object# man!",
+     
+    "It wouldn't be a good mod if it had #object.s#.",
+    "It wouldn't be a bad mod if it had #object.s#.",
+    "It wouldn't be a good mod if it didn't have #object.s#.",
+    "It wouldn't be a bad mod if it didn't have #object.s#.",
+     
+    "next year #game# 3d recreation in #mari0#",
+     
+    "#name# add #object.capitalize# pls!!!111!!!",
+     
+    "#name# plz nerf #object.s#",
+     
+    "#mari0.capitalize# 3D Mod",
+    "#mari0.capitalize# #object.capitalize# Mod",
+    
+    "#name# is custom enemie god, he must recrate #object# from scractch!",
+     
+    "Can I make a #game# mappack called #object.capitalize!",
+     
+    "Who here likes #object.s#??",
+    
+    "Hey #name.capitalize# Add #object.capitalize# And #object.s.capitalize#. That You Can Customize Them. And Make A Ability When You Place #object.capitalize# Then It Will",
+    
+    "Speaking of which, The #object.s# need to have a addition of a slope. Also, the #object# doesn't compare to the one in #game#.",
+    
+    "#name.capitalizeAll#\nGO FICXXXXXXXXX",
+     
+    "#name# is EXPOSED for Not playing #game#.\nPlay it now! It's available on #devices# and #devices#.",
+     
+    "i downloaded the #game# mappack its fun but THE #object.capitalizeAll# IS BROKEN HOW DO I FIX IT",
+     
+     
+    "we need a #object# for #mari0#\nso its like a #object#\nbut multiple time use",
+     
+    
+    "ok\nwhat #object# means",
+     
+    "ok\nwhat #object# means\noh i know, i remember",
+     
+    "because im making a #character# character",
+    "because im making a #object# character",
+     
+    "so is he #object# or #object#",
+     
+    "Can you make a Super mario bros #game# #character# mod in #devices# with emulator",
+    "Can you make a #game# #game# #character# mod in #devices# with emulator",
+     
+    "pls make super mario #game# mod",
+    "pls make #game# #game# mod",
+     
+    "#mari0.capitalizeAll# HAS VIRSU!!!>!!?!?!??!?!?!\nOMG DONW DOWNLOAD #mari0.capitalizeAll# IT HAVE VURUS",
+     
+    "Trying #mari0# for the first time and already the #object.s# are all broken",
+         "Trying #mari0# for the first time and already the #object.s# are all broken\nThey legit crash #mari0# so uh..... My computer also has a virus.",
+    "Trying #mari0# for the first time and already the #object.s# are all broken\nThey legit crash #mari0# so uh..... My computer also has a virus. Only because of something in #mari0# that gave my computer a virus.",
+
+     
+    "i like #object.s# make mor of them",
+     
+    "giv me the #object.s# plse",
+     
+    "#name# you are a life saver{img https://i.imgur.com/jc20Y5C.jpg}",
+     
+    "#name# you are a #object#",
+     
+    "#object.capitalizeAll.s WTF WHY ISN'T IT WORKING\n#name.capitalizeAll# GO GFIXC",
+     
+    "add #object# as a secret",
+    
+    "add #object# as a HIDEEN SECRET",
+     
+    "#character# for #mari0#",
+     
+    "#mari0.capitalize# #version# GONE WRONG GONE VERY WRONG",
+    
+    "#name# added #game# style?!?!?!?! Not clickbait",
+     
+    "I CALLED #name.capitalizeAll#S ENTITYS #mari0.capitalizeAll# PORTAL #version.capitalizeAll# AT 3AM(GONE WRONG!!!!!!!!!!!) (DON'T TRY AT HOME!!!!!!!) (I ALMOST DIED!!!!!)",
+
+	"I SENT #object.capitalizeAll# PICK TO MARO HALOOIN???? IT UPGRADES TO #version.capitalizeAll# [GONE WRONG]",
+     
+    "#object# suit",
+     
+    "#name#\n#object.s.capitalizeAll#\nADD BACK",
+     
+    "Pls remove #object# its the worst addition ever",
+     
+    "#name# pls add #object#",
+     
+    "#name# makes the best mappacks in #mari0# I was just done playing his #game# mappack trust me it was the time of my life",
+     
+    "THE #object.capitalizeAll# ARE MISSING\nWHERE DID THE #object.capitalizeAll# GO",
+     
+    "#object#\nWhy hasn't #name# added this in yet?",
+     
+    "hey #name#, can i ask you a question, will #object# be in #version#, it wouldn't be a mod without #object#",
+    
+    "#name# fix this!!!\nT brigns us to stys",
+     
+    "I want a #object#",
+     
+    "We want a #object#",
+     
+    "#name# add me ples",
+     
+    "Can you add #object.s# from #game#?",
+    "Can we add #object.s# from #game#?",
+     
+    "#object# is so bad, it really just needs to be completely redone!!",
+     
+    "i added #mari0# into game and watch now give me money{img https://i.imgur.com/rUZJi3O.png}",
+     
+    "if everyone likes #balloongoombas# why has nobody made a #balloonadd# #object#???"],
+
+
+
+
+	"object":
+		["Balloon Goomba{img https://i.imgur.com/nZUPSzX.png}",
+		"Quicksand{img https://i.imgur.com/aW4XaWs.png}",
+		"Chain Chomp{img https://i.imgur.com/2VyL2Iz.jpg}",
+		"note block{img https://i.imgur.com/YW2PwyE.jpg}",
+		"Super Mario World DLC{img https://i.imgur.com/6eSMSaR.png}",
+		"Bro You Just Posted Cringe DLC{img https://i.imgur.com/LUUXhdB.png}",
+		"Mario Odyssey DLC{img https://i.imgur.com/5WoNGIT.png}",
+		"SMM2 Compilation DLC{img https://i.imgur.com/hzbpShS.png}",
+		"Boomerang Bro{img https://i.imgur.com/WvIthNR.png}",
+		"the quicksand entity{img https://i.imgur.com/aW4XaWs.png}",
+     
+		"portal gun{img https://i.imgur.com/kfyJvQf.png}",
+		"new sprites",
+		"Clear Pipe{img https://i.imgur.com/eYHfNWH.png}",
+		"blocks",
+		"Master Sword{img https://i.imgur.com/kiTaHP2.jpg}",
+		"Boom Boom{img https://i.imgur.com/R6Pcbi4.png}",
+		"Goomba{img https://i.imgur.com/TUO84Ic.png}",
+		"Google{img https://i.imgur.com/iJuwd9W.png}",
+		"Bob-omb{img https://i.imgur.com/pGjWzK9.png}",
+		"Bully{img https://i.imgur.com/u5Ir2jQ.png}",
+		"Pow Block{img https://i.imgur.com/z3iqb1G.png}",
+		"Blargg{img https://i.imgur.com/dL1aFFg.jpg}",
+		"Blue Coin{img https://i.imgur.com/9ccqlGT.jpg}",
+		"Dragon Coin{img https://i.imgur.com/N4k1JmV.png}",
+		"Fishing Lakitu{img https://i.imgur.com/1tnURMQ.png}",
+		"Galoomba{img https://i.imgur.com/DpzFXd7.png}",
+		"Grinder{img https://i.imgur.com/lboJYju.png}",
+		"Paragoomba{img https://i.imgur.com/IPHtDdG.png}",
+		"Bowser{img https://i.imgur.com/FV7d0VQ.jpg}",
+		"Bowser Jr{img https://i.imgur.com/NyJXLWx.png}",
+		"Bowser Statue{img https://i.imgur.com/CC0F1gC.png}",
+		"Bumper{img https://i.imgur.com/rTkky4z.png}",
+		"Fuzzy{img https://i.imgur.com/bU3o6RD.png}",
+		"Mechakoopa{img https://i.imgur.com/7Rq7eJz.jpg}",
+		"Mystery Mushroom{img https://i.imgur.com/3qlwcvQ.png}",
+		"Pink Coin{img https://i.imgur.com/1J9JUf0.png}",
+		"Porcupuffer{img https://i.imgur.com/5jzteXg.png}",
+		"Power Star{img https://i.imgur.com/dI8Tw71.png}",
+		"Rex{img https://i.imgur.com/5Xg5iND.png}",
+		"Spring{img https://i.imgur.com/l2TquPz.png}",
+		"Track{img https://i.imgur.com/yOeqyUx.png}",
+		"Key{img https://i.imgur.com/ht7N9Ub.png}",
+		"Hammer Bro{img https://i.imgur.com/hHJUJWs.png}",
+		"Mushroom{img https://i.imgur.com/JI4xY7C.png}",
+		"Fire Flower{img https://i.imgur.com/1mYwEPI.png}",
+		"Koopa Troopa{img https://i.imgur.com/ECXLj4K.png}",
+		"Diamond Sword{img https://i.imgur.com/fqv3m9Z.png}",
+		"TNT{img https://i.imgur.com/z9JGeT7.png}",
+		"Water Bottle{img https://i.imgur.com/UGjYlSt.jpg}",
+		"Voice acting{img https://i.imgur.com/qAijkmD.jpg}",
+		"custom enemy{img https://i.imgur.com/M7wRJha.png}",
+		"Superball Flower{img https://i.imgur.com/fT6NeqL.png}",
+
+		"groundpounding{img https://i.imgur.com/osRsNxD.png}",
+		"Waddlewing{img https://i.imgur.com/PpWvDbG.png}",
+		"Underairskyoverghostdesertforestcastle tile{img https://i.imgur.com/f1MSZT2.png}",
+		"Red Coin{img https://i.imgur.com/KxxkD5A.png}",
+		"World Map{img https://i.imgur.com/P6pLTHc.png}",
+		"Lego Mario{img https://i.imgur.com/wge3uCD.png}",
+		"3D Model support{img https://i.imgur.com/hX3k1Z9.png}",
+		"Bramball{img https://i.imgur.com/aQWPIXF.png}",
+		"Grrrol{img https://i.imgur.com/uRrqCRB.png}",
+		"chair{img https://i.imgur.com/KDxP2o9.png}",
+		"4K Ultra HD graphics",
+		"minigame",
+		"custom character{img https://i.imgur.com/5vLkvJa.png}",
+		"the 3D nitpick{img https://i.imgur.com/dr5rTj8.png}",
+		"boulder that you can pick up but holding them will crush you",
+		"Yoshi{img https://i.imgur.com/jQBktVR.png}",
+		"Lego{img https://i.imgur.com/VXT2imp.jpg}",
+		"the New Funky Mode{img https://i.imgur.com/io75ttg.png}",
+		"Red Seesaw{img https://i.imgur.com/pW75XGD.png}",
+		"Ground Block{img https://i.imgur.com/c0XxrQC.png}",
+		"Gentle Slope{img https://i.imgur.com/Xg2edLC.png}",
+		"Swinging Claw{img https://i.imgur.com/IHQ4JFW.png}",
+		"Brick Block{img https://i.imgur.com/IZDYcKh.jpg}",
+		"? Block{img https://i.imgur.com/JK5uvnQ.png}",
+		"Steep Slope{img https://i.imgur.com/71PrWBX.png}",
+		"Warp Door{img https://i.imgur.com/kJk2D1I.png}",
+		"Firebar{img https://i.imgur.com/oFUnJ9u.png}",
+		"1-UP{img https://i.imgur.com/QKkKH6c.png}",
+		"Checkpoint Flag{img https://i.imgur.com/cQCVkvh.png}",
+		"Coin{img https://i.imgur.com/h2WpjH4.png}",
+		"Donut Block{img https://i.imgur.com/rClnceP.png}",
+		"Frozen Coin{img https://i.imgur.com/y7I3KMa.png}",
+		"Ice Flower{img https://i.imgur.com/Z81tn1d.png}",
+		"P Switch{img https://i.imgur.com/QGPEuMm.png}",
+		"Super Star{img https://i.imgur.com/oUbgylL.png}",
+		"Raccoon Leaf{img https://i.imgur.com/dlipzft.png}",
+		"Snake Block{img https://i.imgur.com/IULGxK8.png}",
+		"coding{img https://i.imgur.com/kQx0P8r.png}",
+		"code{img https://i.imgur.com/4nc1pf6.jpg}",
+		"Mega Mushroom{img https://i.imgur.com/R5ZCYd5.png}",
+		"Piranha Creeper{img https://i.imgur.com/feLoPq1.jpg}",
+		"Spiny{img https://i.imgur.com/eDfp1dH.png}",
+		"Mini Mushroom{img https://i.imgur.com/kjw3UPu.png}",
+		"Goombrat{img https://i.imgur.com/4p7wRqb.png}",
+		"toggleable editor controls",
+		"Rising Water{img https://i.imgur.com/1q7IpYk.png}",
+		"Blue Portal{img https://i.imgur.com/P9HTR5b.png}",
+		"Orange Portal{img https://i.imgur.com/LZFqAdz.png}",
+		"Portals{img https://i.imgur.com/VGS7g36.png}",
+		"Air{img https://i.imgur.com/ZlG0zCc.png}",
+
+		"Cursed Goomba{img https://i.imgur.com/IDXbd2B.png}",
+		"HD Cursed Goomba{img https://i.imgur.com/MjnN881.png}",
+		"God{img https://i.imgur.com/jDYg7jD.png}",
+		"RTX Filters{img https://i.imgur.com/gFP8lKA.png}",
+		"Potato chips{img https://i.imgur.com/Q2ZuRjG.png}",
+		"Earth{img https://i.imgur.com/mBeuse1.jpg}",
+		"Trash Can{img https://i.imgur.com/D1iIMXg.jpg}",
+		"Smithley{img https://i.imgur.com/dt5NK7a.png}",
+
+		"Dash Block{img https://i.imgur.com/CCb8NmX.png}",
+		"online multiplayer{img https://i.imgur.com/a5Y3tBd.jpg}",
+		"Concrete{img https://i.imgur.com/I6Bt6qz.jpg}",
+
+		"Mari0{img https://i.imgur.com/kHMGBHK.png}",
+
+		"Dry Bone Shell{img https://i.imgur.com/PjdiG40.jpg}",
+		"Maui Goomba{img https://i.imgur.com/EoaImuZ.jpg}",
+		"Lego Bramball{img https://i.imgur.com/J7lcr8h.png}",
+		"Marroon Goombas{img https://i.imgur.com/tGa3UPB.png}",
+		"Footstep Sound{img https://i.imgur.com/HEuhYxS.png}",
+		"Donut{img https://i.imgur.com/s4x693A.jpg}",
+		"Super Bell{img https://i.imgur.com/xU3Xjif.png}",
+		"Never Gonna Give You Up{img https://i.imgur.com/GgTJtzw.jpg}",
+		"Infinity Gauntlet{img https://i.imgur.com/jjBglM3.png}",
+    
+    "this",
+    "Explosions{img https://i.imgur.com/lsjgRQe.png}",
+    "this thing{img https://i.imgur.com/lsjgRQe.png}",
+    "Derp Shoom{img https://i.imgur.com/UBKxvTn.png}",
+    "Spaghetti{img https://i.imgur.com/3gtdcpP.jpg}",
+    "Miis{img https://i.imgur.com/p3TwMU3.jpg}",
+    "c from abc{img https://i.imgur.com/fKVUPGV.png}",
+    "pillow shading{img https://i.imgur.com/LtBe2Aj.png}",
+    "Dark mode & Light mode{img https://i.imgur.com/EMVHvGd.jpg}",
+    "Balloon{img https://i.imgur.com/ubhuM7T.jpg}",
+    "Discord{img https://i.imgur.com/I4HbSjP.png}",
+     "YouTube{img https://i.imgur.com/Gyr719Y.png}"
+],
+
+
+	"objectsthe":
+		["Balloon Goombas{img https://i.imgur.com/nZUPSzX.png}",
+		"Quicksand{img https://i.imgur.com/aW4XaWs.png}",
+		"Chain Chomps{img https://i.imgur.com/2VyL2Iz.jpg}",
+		"the note block{img https://i.imgur.com/YW2PwyE.jpg}",
+		"the Super Mario World DLC{img https://i.imgur.com/6eSMSaR.png}",
+		"the Bro You Just Posted Cringe DLC{img https://i.imgur.com/LUUXhdB.png}",
+		"the Mario Odyssey DLC{img https://i.imgur.com/5WoNGIT.png}",
+		"the SMM2 Compilation DLC{img https://i.imgur.com/hzbpShS.png}",
+		"the Boomerang Bro{img https://i.imgur.com/WvIthNR.png}",
+		"the quicksand entity{img https://i.imgur.com/aW4XaWs.png}",
+
+		"the portal gun{img https://i.imgur.com/kfyJvQf.png}",
+		"new sprites",
+		"the Clear Pipe{img https://i.imgur.com/eYHfNWH.png}",
+		"the blocks",
+		"the Master Sword{img https://i.imgur.com/kiTaHP2.jpg}",
+		"Boom Boom{img https://i.imgur.com/R6Pcbi4.png}",
+		"the Goombas{img https://i.imgur.com/TUO84Ic.png}",
+		"Google{img https://i.imgur.com/iJuwd9W.png}",
+		"the Bob-ombs{img https://i.imgur.com/pGjWzK9.png}",
+		"the Bullies{img https://i.imgur.com/u5Ir2jQ.png}",
+		"the Pow Block{img https://i.imgur.com/z3iqb1G.png}",
+		"Blargg{img https://i.imgur.com/dL1aFFg.jpg}",
+		"the Blue Coins{img https://i.imgur.com/9ccqlGT.jpg}",
+		"the Dragon Coins{img https://i.imgur.com/N4k1JmV.png}",
+		"the Fishing Lakitus{img https://i.imgur.com/1tnURMQ.png}",
+		"the Galoomba{img https://i.imgur.com/DpzFXd7.png}",
+		"the Grinders{img https://i.imgur.com/lboJYju.png}",
+		"the Paragoombas{img https://i.imgur.com/IPHtDdG.png}",
+		"Bowser{img https://i.imgur.com/FV7d0VQ.jpg}",
+		"Bowser Jr{img https://i.imgur.com/NyJXLWx.png}",
+		"the Bowser Statues{img https://i.imgur.com/CC0F1gC.png}",
+		"the Bumper{img https://i.imgur.com/rTkky4z.png}",
+		"the Fuzzies{img https://i.imgur.com/bU3o6RD.png}",
+		"the Mechakoopas{img https://i.imgur.com/7Rq7eJz.jpg}",
+		"the Mystery Mushroom{img https://i.imgur.com/3qlwcvQ.png}",
+		"the Pink Coin{img https://i.imgur.com/1J9JUf0.png}",
+		"the Porcupuffer{img https://i.imgur.com/5jzteXg.png}",
+		"the Power Stars{img https://i.imgur.com/dI8Tw71.png}",
+		"the Rexes{img https://i.imgur.com/5Xg5iND.png}",
+		"the Spring{img https://i.imgur.com/l2TquPz.png}",
+		"the Tracks{img https://i.imgur.com/yOeqyUx.png}",
+		"the Keys{img https://i.imgur.com/ht7N9Ub.png}",
+		"the Hammer Bros{img https://i.imgur.com/hHJUJWs.png}",
+		"the Mushroom{img https://i.imgur.com/JI4xY7C.png}",
+		"the Fire Flower{img https://i.imgur.com/1mYwEPI.png}",
+		"the Koopa Troopas{img https://i.imgur.com/ECXLj4K.png}",
+		"the Diamond Sword{img https://i.imgur.com/fqv3m9Z.png}",
+		"TNT{img https://i.imgur.com/z9JGeT7.png}",
+		"the Water Bottles{img https://i.imgur.com/UGjYlSt.jpg}",
+		"Voice acting{img https://i.imgur.com/qAijkmD.jpg}",
+		"the custom enemies{img https://i.imgur.com/M7wRJha.png}",
+		"the Superball Flower{img https://i.imgur.com/fT6NeqL.png}",
+
+		"groundpounding{img https://i.imgur.com/osRsNxD.png}",
+		"the Waddlewings{img https://i.imgur.com/PpWvDbG.png}",
+		"the Underairskyoverghostdesertforestcastle tiles{img https://i.imgur.com/f1MSZT2.png}",
+		"the Red Coins{img https://i.imgur.com/KxxkD5A.png}",
+		"World Maps{img https://i.imgur.com/P6pLTHc.png}",
+		"Lego Mario{img https://i.imgur.com/wge3uCD.png}",
+		"3D Model support{img https://i.imgur.com/hX3k1Z9.png}",
+		"the Bramballs{img https://i.imgur.com/aQWPIXF.png}",
+		"the Grrrols{img https://i.imgur.com/uRrqCRB.png}",
+		"chairs{img https://i.imgur.com/KDxP2o9.png}",
+		"the 4K Ultra HD graphics",
+		"the minigames",
+		"the custom characters{img https://i.imgur.com/5vLkvJa.png}",
+		"the 3D nitpick{img https://i.imgur.com/dr5rTj8.png}",
+		"the boulders that you can pick up but holding them will crush you",
+		"the Yoshis{img https://i.imgur.com/jQBktVR.png}",
+		"Lego{img https://i.imgur.com/VXT2imp.jpg}",
+		"the New Funky Mode{img https://i.imgur.com/io75ttg.png}",
+		"the Red Seesaws{img https://i.imgur.com/pW75XGD.png}",
+		"the Ground Blocks{img https://i.imgur.com/c0XxrQC.png}",
+		"the Gentle Slopes{img https://i.imgur.com/Xg2edLC.png}",
+		"the Swinging Claws{img https://i.imgur.com/IHQ4JFW.png}",
+		"the Brick Blocks{img https://i.imgur.com/IZDYcKh.jpg}",
+		"the ? Blocks{img https://i.imgur.com/JK5uvnQ.png}",
+		"the Steep Slopes{img https://i.imgur.com/71PrWBX.png}",
+		"the Warp Doors{img https://i.imgur.com/kJk2D1I.png}",
+		"the Firebars{img https://i.imgur.com/oFUnJ9u.png}",
+		"the 1-UPs{img https://i.imgur.com/QKkKH6c.png}",
+		"the Checkpoint Flags{img https://i.imgur.com/cQCVkvh.png}",
+		"the Coins{img https://i.imgur.com/h2WpjH4.png}",
+		"the Donut Blocks{img https://i.imgur.com/rClnceP.png}",
+		"the Frozen Coins{img https://i.imgur.com/y7I3KMa.png}",
+		"the Ice Flowers{img https://i.imgur.com/Z81tn1d.png}",
+		"the P Switches{img https://i.imgur.com/QGPEuMm.png}",
+		"the Super Stars{img https://i.imgur.com/oUbgylL.png}",
+		"the Raccoon Leafs{img https://i.imgur.com/dlipzft.png}",
+		"the Snake Blocks{img https://i.imgur.com/IULGxK8.png}",
+		"coding{img https://i.imgur.com/kQx0P8r.png}",
+		"the code{img https://i.imgur.com/4nc1pf6.jpg}",
+		"the Mega Mushrooms{img https://i.imgur.com/R5ZCYd5.png}",
+		"the Piranha Creepers{img https://i.imgur.com/feLoPq1.jpg}",
+		"the Spinies{img https://i.imgur.com/eDfp1dH.png}",
+		"the Mini Mushrooms{img https://i.imgur.com/kjw3UPu.png}",
+		"the Goombrats{img https://i.imgur.com/4p7wRqb.png}",
+		"the toggleable editor controls",
+		"the Rising Water{img https://i.imgur.com/1q7IpYk.png}",
+		"the Blue Portals{img https://i.imgur.com/P9HTR5b.png}",
+		"the Orange Portals{img https://i.imgur.com/LZFqAdz.png}",
+		"the Portals{img https://i.imgur.com/VGS7g36.png}",
+		"the Air{img https://i.imgur.com/ZlG0zCc.png}",
+
+		"the Cursed Goombas{img https://i.imgur.com/IDXbd2B.png}",
+		"the HD Cursed Goombas{img https://i.imgur.com/MjnN881.png}",
+		"the Gods{img https://i.imgur.com/jDYg7jD.png}",
+		"the RTX Filters{img https://i.imgur.com/gFP8lKA.png}",
+		"the Potato chips{img https://i.imgur.com/Q2ZuRjG.png}",
+		"the Earths{img https://i.imgur.com/mBeuse1.jpg}",
+		"the Trash Can{img https://i.imgur.com/D1iIMXg.jpg}",
+		"Smithley{img https://i.imgur.com/dt5NK7a.png}",
+
+		"the Dash Blocks{img https://i.imgur.com/CCb8NmX.png}",
+		"the online multiplayer{img https://i.imgur.com/a5Y3tBd.jpg}",
+		"the Concrete{img https://i.imgur.com/I6Bt6qz.jpg}",
+
+		"Mari0{img https://i.imgur.com/kHMGBHK.png}",
+
+		"the Dry Bone Shells{img https://i.imgur.com/PjdiG40.jpg}",
+		"the Maui Goombas{img https://i.imgur.com/EoaImuZ.jpg}",
+		"the Lego Bramballs{img https://i.imgur.com/J7lcr8h.png}",
+		"the Marroon Goombas{img https://i.imgur.com/tGa3UPB.png}",
+		"the Footstep Sounds{img https://i.imgur.com/HEuhYxS.png}",
+		"the Donuts{img https://i.imgur.com/s4x693A.jpg}",
+		"the Super Bells{img https://i.imgur.com/xU3Xjif.png}",
+		"Never Gonna Give You Up{img https://i.imgur.com/GgTJtzw.jpg}",
+		"Infinity Gauntlet{img https://i.imgur.com/jjBglM3.png}",
+     
+    "the this",
+    "the Explosions{img https://i.imgur.com/lsjgRQe.png}",
+    "this thing{img https://i.imgur.com/lsjgRQe.png}",
+    "the Derp Shooms{img https://i.imgur.com/UBKxvTn.png}",
+    "the Spaghetti{img https://i.imgur.com/3gtdcpP.jpg}",
+    "the Miis{img https://i.imgur.com/p3TwMU3.jpg}",
+    "the c from abc{img https://i.imgur.com/fKVUPGV.png}",
+    "the pillow shading{img https://i.imgur.com/LtBe2Aj.png}",
+    "the Dark mode & Light mode{img https://i.imgur.com/EMVHvGd.jpg}",
+    "the Balloons{img https://i.imgur.com/ubhuM7T.jpg}",
+    "the Discord{img https://i.imgur.com/I4HbSjP.png}",
+    "the YouTube{img https://i.imgur.com/Gyr719Y.png}"
+],
+
+
+
+
+
+
+
+
+
+
+	"ent":
+		["Clear Pipes{img https://i.imgur.com/o8JfHd7.png}",
+		"Tracks{img https://i.imgur.com/yOeqyUx.png}",
+		"Portals{img https://i.imgur.com/VGS7g36.png}",
+		"Springs{img https://i.imgur.com/l2TquPz.png}",
+		"Pow Blocks{img https://i.imgur.com/z3iqb1G.png}",
+		"the supersize entity"],
+
+
+
+
+
+
+
+
+
+
+	"pasttenseverb": 
+		["removed", "added", "deleted", "forgot", "changed", "hid", "escaped", "fixed"],
+
+	"pasttenseverbsheesh": 
+		["removed", "added", "deleted", "forget about", "changed", "hid", "escaped from", "fixed"],
+
+
+
+
+	"presenttenseverb": 
+		["remove", "add", "delete", "forget",
+     "change", "hide", "escape", "fix"],
+
+	"presenttenseverbidea": 
+		["remove the", "add the", "delete the", "forget about the",
+     "change the", "hide the", "escape the", "fix the"],
+
+	"presenttenseverbsheesh": 
+		["remove", "add", "delete", "forget",
+     "change", "hide", "escape from", "fix"],
+
+	"presenttenseverbdevices": 
+		["remove Mari0 from", "add Mari0 to", "delete Mari0 from", "forget about Mari0 on",
+     "change Mari0 on", "hide from Mari0 on", "escape from Mari0 on", "fix Mari0 on"],
+
+	"presenttenseverbing": 
+		["removing", "adding", "deleting", "forgetting",
+     "changing", "hiding", "escaping from", "fixing"],
+
+	"adverb":
+		[""],
+
+
+
+
+
+
+
+
+
+
+	"game": 
+		["Super Mario Bros 3{img https://i.imgur.com/952leD6.png}",
+		"Super Mario Bros{img https://i.imgur.com/vvUxInz.jpg}",
+		"Sonic the Hedgehog{img https://i.imgur.com/Fklbz87.jpg}",
+		"Super Mario World{img https://i.imgur.com/m7UZVzE.jpg}",
+		"Super Mario Maker{img https://i.imgur.com/3ZoOjop.jpg}",
+		"Super Mario Maker 2{img https://i.imgur.com/SdItK5s.jpg}",
+		"New Super Mario Bros U{img https://i.imgur.com/DMpSEgJ.png}",
+		"New Super Mario Bros Wii{img https://i.imgur.com/UGE1815.jpg}",
+		"FNAF 1 2 3 4 5 6 VR AR and ULTMATE CUSTOM NIGHT{img https://i.imgur.com/qEHqXDr.png}",
+		"FNAF{img https://i.imgur.com/ftemDPL.jpg}",
+		"Undertale{img https://i.imgur.com/s3H1R50.jpg}",
+		"Minecraft{img https://i.imgur.com/8y3tIZW.png}",
+		"7 Grand Dad{img https://i.imgur.com/yfJzVx1.png}",
+		"Super Mario 64{img https://i.imgur.com/jjuBkce.jpg}",
+		"Super Mario Odyssey{img https://i.imgur.com/oTKaOxw.jpg}",
+		"Portal{img https://i.imgur.com/LkI4IC6.png}",
+		"Mari0 Alesan's Entities{img https://i.imgur.com/MpOCAgz.png}",
+		"Super Mario Land{img https://i.imgur.com/BjloWA8.jpg}",
+		"Super Mario Land 2{img https://i.imgur.com/8hMdxO5.png}",
+		"Terraria{img https://i.imgur.com/A7OR1vi.png}",
+		"Super Mario Bros 2{img https://i.imgur.com/jMrtJWR.png}",
+		"Super Mario Run{img https://i.imgur.com/vDwk7bf.png}",
+		"Super Mario Sunshine{img https://i.imgur.com/7DUpjgI.png}",
+		"All Night Nippon Super Mario Bros",
+		"Baldi's Basics{img https://i.imgur.com/n5K51w6.png}",
+		"Donkey Kong{img https://i.imgur.com/sATLc1N.png}",
+		"Donkey Kong Country{img https://i.imgur.com/4xgdxmj.jpg}",
+		"Dr. Mario{img https://i.imgur.com/NxD6Mrt.jpg}", 
+		"Fortnite{img https://i.imgur.com/4OGs5oB.jpg}",
+		"Hotel Mario{img https://i.imgur.com/QzqAeLI.jpg}",
+		"Luigi's Mansion{img https://i.imgur.com/FWaMrkZ.jpg}",
+		"Luigi's Mansion 3{img https://i.imgur.com/jOCLFuv.jpg}",
+		"Mari0 SE",
+		"Mario Golf{img https://i.imgur.com/dU2HoCy.jpg}",
+		"Mario Hoops 3-on-3",
+		"Mario Is Missing{img https://i.imgur.com/tBQ7v3v.jpg}",
+		"Super Mario Kart{img https://i.imgur.com/Im0I4V2.jpg}",
+		"Mario Paint{img https://i.imgur.com/Co8JkT9.jpg}",
+		"Mario Party{img https://i.imgur.com/sK8rZKv.jpg}",
+		"Mario Teaches Typing{img https://i.imgur.com/2CGFq9m.jpg}",
+		"Mario Tennis{img https://i.imgur.com/DIcIEy8.jpg}",
+		"Mario's Time Machine{img https://i.imgur.com/rggV8fJ.jpg}",
+		"Mario vs Donkey Kong{img https://i.imgur.com/NiEnyuh.png}",
+		"New Super Mario Bros 2{img https://i.imgur.com/7ACeBPL.jpg}",
+		"New Super Mario Bros{img https://i.imgur.com/5QJFhIF.jpg}",
+		"Paper Mario{img https://i.imgur.com/tOHmTuY.jpg}",
+		"Super Mario 3D World{img https://i.imgur.com/fuhpByc.png}",
+		"Super Mario Bros Lost Levels",
+		"Super Mario Galaxy{img https://i.imgur.com/t7JKLyd.png}",
+		"Super Smash Bros{img https://i.imgur.com/Kpuduem.jpg}",
+		"Super Smash Bros Ultimate{img https://i.imgur.com/oyXddAk.jpg}",
+		"Tetris{img https://i.imgur.com/OjpAXk6.jpg}",
+		"the Super Mario Advance 4 e-Reader levels",
+		"WarioWare",
+		"Wario Land",
+		"Wario's Woods{img https://i.imgur.com/mxF3A4f.jpg}",
+		"Wrecking Crew{img https://i.imgur.com/0uoHSzr.jpg}",
+		"Yoshi's Island{img https://i.imgur.com/CFavK2w.jpg}",
+		"The Legend of Zelda",
+		"Mari0 2{img https://i.imgur.com/bDlhFt9.png}",
+		"Tetris{img https://i.imgur.com/cH5LEfL.jpg}",
+		"New Super Mario Bros. Deluxe{img https://i.imgur.com/5sA2xeC.jpg}",
+		"Super Mario Bros Deluxe{img https://i.imgur.com/5sA2xeC.jpg}",
+		"Mari0{img https://i.imgur.com/kHMGBHK.png}",
+		"Among Us{img https://i.imgur.com/vllGGrO.png}",
+    "Discord{img https://i.imgur.com/I4HbSjP.png}",
+    "YouTube{img https://i.imgur.com/Gyr719Y.png}",
+    "Wii Sports{img https://i.imgur.com/t96MViE.jpg}",
+    "Bowser's Fury{img https://i.imgur.com/0FQuWvD.jpg}",
+    "Tomodachi Life{img https://i.imgur.com/FRaZdHY.jpg}",
+    "Tomodachi Collection{img https://i.imgur.com/rcvfPN6.jpg}",
+    "Friday Night Funkin{img https://i.imgur.com/vutH7Fk.png}"
+		],
+
+
+
+
+
+
+
+
+
+
+	"withorwithout":
+		["with", "without", "without"],
+
+
+
+
+
+
+
+
+
+
+	"devices": 
+		["Android{img https://i.imgur.com/X7f5J9U.png}",
+		"iOS{img https://i.imgur.com/ZJIeSPc.png}",
+		"Nintendo Switch{img https://i.imgur.com/b6c91g1.jpg}",
+		"Wii U{img https://i.imgur.com/pHD8UeH.png}",
+		"PlayStation{img https://i.imgur.com/MaADuwh.jpg}",
+		"NES{img https://i.imgur.com/NXYfBOA.jpg}",
+		"PC{img https://i.imgur.com/udQjZtj.jpg}",
+		"Virtual Boy{img https://i.imgur.com/FV4kvE4.jpg}",
+		"Magnavox Odyssey{img https://i.imgur.com/a48cT5M.jpg}",
+		"Intellevision{img https://i.imgur.com/P7pa0dx.jpg}",
+		"Atari{img https://i.imgur.com/iQOtf2Y.jpg}",
+		"Famicom{img https://i.imgur.com/PotzeI2.jpg}",
+		"Game & Watch{img https://i.imgur.com/ieA6XiY.png}",
+		"Game Boy Advance{img https://i.imgur.com/KsmhQIP.jpg}",
+		"Game Boy Color{img https://i.imgur.com/wTsFoYN.jpg}",
+		"Game Boy{img https://i.imgur.com/EqBXwER.jpg}",
+		"Game Gear{img https://i.imgur.com/eeBO09p.jpg}",
+		"Mega Drive{img https://i.imgur.com/X3eWysC.jpg}",
+		"3DS{img https://i.imgur.com/UYRUgcT.png}",
+		"Nintendo 64{img https://i.imgur.com/91IJRBI.jpg}", 
+		"DS{img https://i.imgur.com/USh5em7.jpg}",
+		"GameCube{img https://i.imgur.com/6xa1KBD.jpg}",
+		"Wii{img https://i.imgur.com/FewLxez.jpg}",
+		"SNES{img https://i.imgur.com/XkJfsec.jpg}", 
+		"Sega Dreamcast{img https://i.imgur.com/ftxuBID.jpg}", 
+		"Sega Genesis{img https://i.imgur.com/X3eWysC.jpg}",
+		"Sega Saturn{img https://i.imgur.com/Ub5318c.jpg}",
+		"Virtual Console{img https://i.imgur.com/wPTWIYX.png}",
+		"Windows Phone{img https://i.imgur.com/ausVcxI.png}",
+		"Xbox{img https://i.imgur.com/GkcSldJ.jpg}",
+    "Discord{img https://i.imgur.com/I4HbSjP.png}",
+    "YouTube{img https://i.imgur.com/Gyr719Y.png}"],
+
+
+
+
+
+
+
+
+
+
+	"devicesfromorto": 
+		["from", "to"],
+
+
+
+
+
+
+
+
+
+
+	"devicesandroidorpc": 
+		["Android{img https://i.imgur.com/X7f5J9U.png}", "PC{img https://i.imgur.com/udQjZtj.jpg}"],
+
+
+
+
+
+
+
+
+
+
+	"characterneedsorcannot": 
+		["needs to", "cannot"],
+
+
+
+
+
+
+
+
+
+
+	"emoticonweneed":
+		["> :(", "> :(", "> :(",
+		"> :)",
+		"> :]",
+		" > :(", " > :(",
+		" > :)",
+		" > :]"],
+
+
+
+
+
+
+
+
+
+
+	"powerorentity":
+		["powerup", "entity"],
+
+
+
+
+
+
+
+
+
+
+	"character": 
+		["Mario{img https://i.imgur.com/xHwAhUP.png}",
+		"Luigi{img https://i.imgur.com/bfw3dxD.png}",
+		"Toad{img https://i.imgur.com/pzPzABy.png}",
+		"Toadette{img https://i.imgur.com/rD29pTR.png}",
+		"Link{img https://i.imgur.com/2RpSYg7.jpg}",
+		"SMW Mario{img https://i.imgur.com/49K7FrD.png}",
+		"Sonic{img https://i.imgur.com/oAAHCyd.png}",
+		"Sans{img https://i.imgur.com/zSxkoqg.jpg}",
+		"Nintendo{img https://i.imgur.com/NArjYQX.png}",
+		"Balloon Goomba{img https://i.imgur.com/nZUPSzX.png}",
+		"Grand Dad{img https://i.imgur.com/kapM9n1.jpg}",
+		"You{img https://i.imgur.com/RW4ksNP.png}",
+		"Steve{img https://i.imgur.com/bwTgf3Q.png}",
+		"8-bit Mario{img https://i.imgur.com/6NYVixn.png}",
+		"Wario{img https://i.imgur.com/logSqyR.png}",
+		"Waluigi{img https://i.imgur.com/QYfkQcr.png}",
+		"Alex{img https://i.imgur.com/1nkfMLX.png}",
+		"Zelda{img https://i.imgur.com/4RzhdB0.png}",
+		"SMB2 mario{img https://i.imgur.com/rnRA52a.png}",
+		"Alesan99{img https://i.imgur.com/RP1Rtfw.jpg}",
+		"Rick Astley{img https://i.imgur.com/tMjCKI6.png}",
+		"Baldi{img https://i.imgur.com/i6cju8k.png}",
+		"Cappy{img https://i.imgur.com/JuUqSdN.jpg}",
+		"Funky Kong{img https://i.imgur.com/sCZr4cj.png}",
+		"Donkey Kong{img https://i.imgur.com/dDiqBDO.png}",
+		"Garfield{img https://i.imgur.com/vG8d65C.png}",
+		"Mario Odyssey Mario{img https://i.imgur.com/Lf7HOEH.png}",
+		"SM64 Mario{img https://i.imgur.com/ecZjwQt.png}",
+		"SMB3 Mario{img https://i.imgur.com/KCNtbFM.png}",
+		"Yoshi{img https://i.imgur.com/jQBktVR.png}",
+		"Smithley{img https://i.imgur.com/dt5NK7a.png}",
+		"Maui Goomba{img https://i.imgur.com/EoaImuZ.jpg}",
+		"Lego Bramball{img https://i.imgur.com/J7lcr8h.png}",
+		"Marroon Goomba{img https://i.imgur.com/tGa3UPB.png}",
+
+		"BetterDonutGamer{img https://i.imgur.com/vZO0bdz.png}",
+		"TheMushrunt{img https://i.imgur.com/rgArjo2.jpg}",
+		"NH1507{img https://i.imgur.com/RfyfvvT.png}",
+		"the Mari0 Suggestions Bot{img https://i.imgur.com/M1biRwN.png}",
+		"James{img https://i.imgur.com/s2tkT1O.png}",
+		"Aidan{img https://i.imgur.com/Fy6BpZR.png}",
+		"Evan.F{img https://i.imgur.com/Kld7A9q.png}",
+		"Erikan{img https://i.imgur.com/HkbBUL5.png}",
+		"Bako{img https://i.imgur.com/gPnN82w.png}",
+		"NH{img https://i.imgur.com/KmobjQJ.png}",
+		"Leanne{img https://i.imgur.com/bIfWV4K.png}",
+		"TheSkullCreeper{img https://i.imgur.com/HG5GWJl.png}",
+		"Mark{img https://i.imgur.com/C6l5gyr.png}",
+
+		"Dorkly Mario{img https://i.imgur.com/VAuWN9s.png}",
+		"Kirby{img https://i.imgur.com/ZRGCD6D.png}",
+		"Cat Mario{img https://i.imgur.com/dtHc4xO.jpg}",
+
+		"Cat Mario{img https://i.imgur.com/Rs5iHuZ.png}",
+		"Sackboy{img https://i.imgur.com/FjZbp9m.png}",
+		"Stabyourself Guy{img https://i.imgur.com/9NTiCnk.png}",
+		"SMG4{img https://i.imgur.com/657vTq3.png}",
+		"Me{img https://i.imgur.com/I5dFkFn.jpg}",
+     
+    "Santa Claus{img https://i.imgur.com/wI5xQfc.jpg}",
+    "Blue Television Games{img https://i.imgur.com/pkW6dqq.png}",
+    "Giga Mario{img https://i.imgur.com/JE5XIJm.png}",
+    "Derp Shoom{img https://i.imgur.com/UBKxvTn.png}",
+    "Miis{img https://i.imgur.com/p3TwMU3.jpg}",
+     
+    "Morshu{img https://i.imgur.com/yIqL68g.jpg}",
+     "Barack Obama{img https://i.imgur.com/Yu87tOC.jpg}",
+    "Obama{img https://i.imgur.com/Yu87tOC.jpg}"
+  
+],
+
+
+
+
+
+
+
+
+
+
+
+
+	"alesan":
+		["Alesan", "Alesan", "Alesan", "Alesan", "Alesan", "Alesan", "Alesan", "Alesan", "Alesan", "Alesan", "Alesan", "Alesan", "Alesan",
+		"Alesan99", "Alesan99", "Alesan99", "Alesan99", "Alesan99", "Alesan99", "Alesan99", "Alesan99", "Alesan99", "Alesan99",  "Alesan99",  "Alesan99",  "Alesan99", 
+
+		"Asleon", "Alushaun", "Alohasean", "Alurajfshfsfskjfkoernen", "Aslon", "Aselean", "Anders", "Astelam", "Alseon", "Aseleyum", "Allesan", "Aaaaaaalesan",
+		"Alasen", "Alesans", "Appleiphone", "Aslon", "Astolfo", "Aleasn99", "Alon 99", "Ginger Ale-san", "Alesylum", "Andrew", "Andysan", "Alsan", "Ailsam", "ALESAN", 
+		"Aslnen", "Aselon199", "Billy Faleoloa 99", "Alessans", "Alestam99", "Alseas", "Aslnean", "Asen", "Alsam", "Aslan", "Alsam", "Alleyway99", "Ailleson 99", "Agumon", 
+		"Alasena", "Aslone", "Aleses", "Aolsonen", "Aseln", "Aselen", "Alsalan", "Alleysen", "Alsen", "Alesans99", "Alen", "aLeSaN99", "aLeSaN", "Alea", "Asenelenion", 
+		"Atalone", "Alesoni", "Asalone 69", "Ale song 999", "Atalon", "Airselan", "Asleon99", "Aleson99", "Aleslon", "Alenesans", "Asleon98", "Anders76", "Alesan44",
+		"Aloson111", "Agony", "Agahnim99", "Alesnas", "Alesnail", "Alesans99 2", "Alfredo", "Saloneennn", "Alsnd", "Alestonka", "Alesen'd", "Alesen", "Alone 99",
+		"Alphafetoprotein-sanatorium-ninety nine", "Alesxonen", "Slana", "Aleson", "Asloene", "Asonne", "Asones", "Asloanz", "Alsoe", "Alesean", "Aleshaun",
+		"Ale", "Aleshawtian99", "Alleyson", "Alesue", "Aley sue", "Ale-chan", "Aylisoon", "Alehsan", "Alses", "Ahlesnahs", "Alesan Numbers", "Lahlesan", "Ahhlesan",
+		"Ahlesan", "Asolon", "Allysan", "Alesone", "Alessan", "Alessan99", "Alessean", "Alesssssssssss", "Alleson", "Allesion", "Alesan™", "Alestam99 Enders",
+		"Alestam99", "Enders", "Alesun",  "Alesun99", "Ales0n",  "Alespam", "Alana", "Al", "Aleaa", "Alesa", "Alexa", "Alesson",  "Alessanie", "Aero", "Aren",
+		"Adam", "Alabama", "Aaron", "Alan", "Arana", "Alexan99", "Alexan", "Alsei", "Arlsei", "Alesei", "Asepam", "Alespam", "Ales nine nine", "Ales", 
+		"Elsa-san", "Calzone", "99", "Aleans", "Alesan98", "Alesan100", "Alesan1", "Alesan0", "Aldersin", "Mari0 99 guy", "Alessa99", "Alesaaaaaaaaaaaaaaan",
+		"Austin", "Arlosan", "Alerone", "alesan99", "alesan", "Alesan27", "Alesanboy27", "Jermlesan27", "Alesan1000", "Asalone", "Alelonely", "Alean99",
+		"Alestonks", "Ass alone", "Mari0 Dude", "The Alesan behind the Entities", "Alesn", "Arlosan", "Arlosen", "Arlan", "Aladdin", "Aladdinlesan",
+		"Alesan some number idk", "Aleseaon", "Alicean", "Alissan", "Alysan", "Alice", "Alisan", "Lisan", "Yasan", "San", "Ale-san", "Salones", "Alesnon",
+		"Alesen", "Alesan1999", "Â̴̚l̸̂͒e̵̋͋s̷͂͠a̷͂̌ń̷́", "A̶̛̅l̵̏̚ē̶͠s̵͋̿a̶͑̚n̷̿͌9̵̋̊9̸̇̉", "Alsone", "Aljsone", "Alkson", "Alesson", "Alespan", "Aslowne", "Alsneadn", "Alorson", "Asleanen",
+		"Alesnan", "Aleond", "Almepn", "Alwns", "Alesan's", "Alesnds", "Nasela", "Alzone", "Aie", "Aielesan", "Aleione", "Aleons", "Alesno", "Alesone", "Aseloeme",
+		"Ahlureeesan", "Alursan", "Morris", "Morrilesan", "Allusion", "Alejuan", "Alseasan", "Alisson", "Akeiafhaofhoshf", "Aslane", "Asone", "Asomon", "Aslane",
+    "Alesosne", "Aslallans", "Sanale", "asdasdas99", "Ale Drink", "Ale keg", "ms99", "Alesan69", "alesan69", "99alesan", "99th Alesan", "Alenen99", "A99",
+    "asdhuinsadklasd", "alekdnnan66", "alesoan669", "ALESnesia", "Azones", "Annani", "Adnani", "Annan", "Alesanz", "Azleonrs", "alEsan99", "Obama", "Andres",
+    "Andresan", "Alfred", "Adam", "Abama", "Alens", "aleasan 99", "astolgo", "astolqo", "Allyway", "Alesan6000", "Afton", "AAAAAAAAAAAAAAAAAAAAA", "Aslonan",
+    "Asleno", "Atalnor", "asdbfsre"],
+
+"maurice":
+		["Maurice", "Maurice", "Maurice", "Maurice", "Marcie", "Marreece", "Maruiece", "Raccoon", "Marerfsefrijaifsiufsfsfsdce", "Marosce", "Marrice", "Mahreece",
+		"MAURICE", "maurice", "Mauriesisc"],
+
+"saso":
+		["Sašo", "Sašo", "Sašo", "Saso", "Saso", "Sazo", "Sahzso", "Sahfjfdszosafsocxso", "Shasho", "Sayso", "saso", "sašo", "SASO", "SAŠO",
+    "safsojosn"],
+
+"aidan":
+		["Aidan", "Aidan", "Aidan", "Aid0n", "Aid0n", "Aid0n", "Aeden", "Adian", "A0dan", "aidan", "AIDAN", "aid0n", "AID0N", "Aid0nesia", "Aiden",
+    "Aidung", "Aidunit", "Aidun", "Aidonut", "Adion", "Adios"],
+
+"william":
+		["WilliamFrog", "WilliamFrog", "WilliamFrog", "WilamFrog", "williamfrog",  "WILLIAMFROG", "WilleamFroge", "WILLFROGGY", "FROGGY", "William"],
+
+"nh":
+    ["NH1507", "NH"],
+
+"randomnames":
+		["",
+		"I", "I",
+		"You", "You", "You",
+		"No one", "No one", "No one",
+		"Person",
+		"Someone",
+		"Balloon Goomba", "Balloon Goomba", "Balloon Goomba",
+    "Joe", "Joe Mama",
+    "Everyone",
+    "Father",
+    "Will Smith the Goomba",
+    "Mario", "Luigi", "Waluigi",
+    "h", "j"],
+
+
+"name": ["#alesan#", "#maurice#", "#saso#", "#aidan#", "#william#", "#nh#", "#randomnames#"],
+
+
+
+
+
+
+
+	"mari0":
+		["Mari0", "Mari0", "Mari0", "Mari0 AE", "Mari0 AE", "Mari0 AE", "Mari0 A99E", "Mari0 A99E", "Mari0: AE", "Mari0: A99E", "AE",
+		"Mayrio alesan enties", "Mari0 entnities", "Mayr0", "Mai0", "Mare0", "Mario Portal", "Alesan's Entities", "AE: Mari0", "Marizerouuzero", "Super Mario Bros Portals",
+		"Maaarhreo portal", "Mehri0", "Alasens Entites", "May0", "Mayri0", "Mari0 Alesn Entieys", "ari0mmario", "Maarrri0", "Mar0", "Aselam's Entries", "Alesan's Entiys",
+    "#alesan.capitalize#'s Entities#", "#alesan.capitalize#'s Entetes#", "#character.capitalize#'s Entities", "#character#s entetis", "#alesan.capitalize#s entities",
+    "mari0 astelam entetis"],
+
+
+
+
+
+
+
+
+
+
+	"programlang":
+		["lua", "json", "txt"],
+
+
+
+
+
+
+
+
+
+
+    "balloonadd":
+      ["balloon{img https://i.imgur.com/ubhuM7T.jpg}"],
+
+       
+       
+     "balloongoombas":
+        ["balloon goombas{img https://i.imgur.com/nZUPSzX.png}"],
+
+
+
+
+
+
+	"kidding":
+		[" (I'm kidding!)", " (Just kidding!)", " (That was a joke btw)",  "", "", " jk pls dont get mad at me :((((("],
+
+
+
+
+
+
+
+
+
+
+	"timespan": 
+		["Yesterday", "A couple days ago", "A long time ago", "Recently",
+		"One second ago", "Three seconds ago", "Five seconds ago",
+		"Two days ago", "Three days ago", "Four days ago", "Five days ago", "Six days ago",
+		"Last week", "Two weeks ago", "Three weeks ago", "Four weeks ago", "Five weeks ago",
+		"Last month", "Two months ago", "Three months ago", "Four months ago", "Five months ago",
+		"Last year", "Two years ago", "Three years ago", "Four years ago", "Five years ago",
+		"Six years ago", "Seven years ago",
+		"I just"],
+
+
+
+
+
+
+
+
+
+
+	"version":
+		["v1", "v1", "v2", "v3", "v4", "v5", "v6", "v7", "v8", "v9", "v10", "v11", "v12", "v12.1", "v13.1",
+		"v13", "v13", "v13", "v13", "v13", "v13", "v13", "v13", "v13", "v13", 
+		"v14", "v14", "v14", "v14", "v14", "v69", "v0", "v-1", "v1-1", "v9000", "v0910219402940124194021412.324121",
+     "v13c", "v13ba", "v13a", "the version with bahs", "the #object# version",
+		"the next update", "the next update", "the next update", "the next update", "the next update", "the next update",
+    "the last update", "the last update", "the last update", "the previous update", "the last update before the last update",
+    "the update after the last update", "the most recent version"],
+
+
+
+
+
+
+
+
+
+	"dlc":
+		["Super Mario World{img https://i.imgur.com/6eSMSaR.png}",
+		"The 1UP Two{img https://i.imgur.com/EWB29ks.png}",
+		"The 1UP{https://i.imgur.com/QKI8fLg.png}",
+		"In the Clouds{img https://i.imgur.com/qF2hCHM.png}",
+		"Bro You Just Posted Cringe{img https://i.imgur.com/LUUXhdB.png}",
+		"Gravitas{img https://i.imgur.com/OFSizR8.png}",
+		"Grumbo Bros{img https://i.imgur.com/DWYoavC.png}",
+		"The Hidden Ones{img https://i.imgur.com/drdEcmN.png}",
+		"Mafia Mario Bros.{img https://i.imgur.com/GTjIiiy.png}",
+		"Mariolander{img https://i.imgur.com/1SVkFBE.png}",
+		"New Tricks{img https://i.imgur.com/j6NoyHi.png}",
+		"0'Brothers{img https://i.imgur.com/oCcT7Qg.png}",
+		"Mario Odyssey{img https://i.imgur.com/5WoNGIT.png}",
+		"Super Shrek Bros{img https://i.imgur.com/q3ZOgvj.png}",
+		"Silh0uette{img https://i.imgur.com/BhxeOX9.png}",
+		"The Lost Levels{img https://i.imgur.com/I55GfOE.png}",
+		"Super Mario Bros 3{img https://i.imgur.com/KzKCOGg.png}",
+		"SMB Special{img https://i.imgur.com/GV1YUKm.png}",
+		"SMM Costumes{img https://i.imgur.com/Ul4z9g1.png}",
+		"SMM2 Compilation{img https://i.imgur.com/hzbpShS.png}",
+		"SMM2 Enemies{img https://i.imgur.com/dLHhRG6.png}",
+		"Syobon Action{img https://i.imgur.com/Ny62FP6.png}",
+		"SMB3 Tank{img https://i.imgur.com/snTmUsV.png}",
+		"Up and Away 3{img https://i.imgur.com/EOsFILE.png}",
+		"Up and Away{img https://i.imgur.com/nu0lsBR.png}",
+		"SMB Upside Down{img https://i.imgur.com/NqpJnRd.png}",
+		"Vs. Bubbleman{img https://i.imgur.com/UdJpOvE.png}",
+		"Windows 95 World{img https://i.imgur.com/7CiyEJX.png}",
+		"Winter Search{img https://i.imgur.com/nBmvxZG.png}",
+		"The Witch Village{img https://i.imgur.com/mlkD2CW.png}",
+		"Halloween Quest{img https://i.imgur.com/kMzbaSW.png}",
+		"Mad Science{img https://i.imgur.com/5qMugq0.png}",
+		"Odyssey Mario character{img https://i.imgur.com/hzVrpRO.png}",
+		"Sonic character{img https://i.imgur.com/zEObJsJ.png}",
+		"The Candle{img https://i.imgur.com/8suGhAf.png}",
+		"Wide Mario character{img https://i.imgur.com/eQsEK0w.png}"
+],
+
+
+
+
+
+
+
+
+
+
+	"dlcthatdoes":
+		["does nothing", "does bad things", "formats my computer", "removes Mari0", "hacks my computer", "isn't legit", "gives me a virus", "removes Balloon Goombas",
+		"gives me free stuff", "has access to my account", "is fake", "is good", "is amazing", "will have Balloon Goombas", "will have Quicksand", "is broken",
+		"deletes System32",
+
+		"will do nothing", "will do bad things", "will format my computer", "will remove Mari0", "will hack my computer", "will not be legit", "will be a virus",
+		"will remove Balloon Goombas", "will give me free stuff", "will have access to my account", "will be fake", "will be good", "will be amazing", "won't have Balloon Goombas", 
+		"won't have Quicksand", "will be broken", "will delete System32",
+
+		"might do nothing", "might do bad things", "might format my computer", "might remove Mari0", "might hack my computer", "might not be legit", "might give me a virus",
+		"might remove Balloon Goombas", "might give me free stuff", "might have access to my account", "might be fake", "might be good", "might be amazing",
+		"might not have Balloon Goombas", "might have Balloon Goombas", "might not have Quicksand", "might have Quicksand", "might be broken",
+		"might delete System32",
+
+		"did nothing", "did bad things", "formatted my computer", "removed Mari0", "hacked my computer", "wasn't legit", "gave me a virus", "removed Balloon Goombas",
+		"gave me free stuff", "had access to my account", "was fake", "was good", "was amazing", "had Balloon Goombas", "didn't have Balloon Goombas", "had Quicksand",
+		"didn't have Quicksand", "was broken", "deleted System32"],
+
+
+
+
+
+
+
+
+
+
+	"dlcthat":
+		[", is it legit?", ", will it give me a virus?", ".", ", can you help me install it?", ", what to do????", ", fool", ", is it fine if I download it?", ", what should I do???", ", will it actually do it?????"],
+
+
+
+
+
+
+
+
+
+
+	"cheat":
+		["Portal", "Minecraft", "Gelcannon", "Cappy", "Classic",
+		"Knockback", "Bullettime", "Huge Mario", "Goomba Attack", "Sonic Rainboom", "Playercollision", "Infinite Time", "Infinite Lives", "Dark Mode"],
+
+
+
+
+
+
+
+
+
+
+	"month":
+		["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+
+
+
+
+
+
+
+
+
+
+	"credits":
+		["NH1507 for making the bot as a whole",
+		 "Maurice & Sašo for making Mari0, and Alesan99 for making Mari0: AE",
+		 "and Nintendo, Sega, etc. for the original characters, objects and whatnot",
+		 "Credit goes to the original creators of the images",
+
+		 "and everyone who gave me suggestions/gave me ideas for them:",
+		 "Aid0n, TheMushrunt, Evan.F, Critfish, Alesan99, A_Zalt, Sky, Kant, Swoof",
+		 "Remy, A Platypus in a Fedora, BetterDonutGamer, WilliamFrog, Megabound",
+		 "HansDenuevo, Hellfire, No1129, Reese Rivers, ArcadeGamer1929, Nathan Silver",
+		 "and everybody else who helped gave me ideas for this bot!"]
+
+}
