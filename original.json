@@ -70,7 +70,7 @@
 		"#name# should add #objectsthe# from #game#!",
 
 
-		"It wouldn't be a mod #withorwithout# #objects#.",
+		"It wouldn't be a mod #withorwithout# #object.s#.",
 		"Can you add #object.s# from #game#? There wouldn't be a mod #withorwithout# #object.s#.",
 
 
@@ -344,7 +344,7 @@
 
 		"Rember your #character# custom character how about make all the entites in #mari0# into a playable character if its done it will be in the zip called playable entites",
 		"Rember your #character# custom character how about make all the entites in #mari0# into a playable character if its done it will be in the zip called playable #object.s#",
-		"Rember your #character# custom character how about make all the #objects# in #mari0# into a playable character if its done it will be in the zip called playable #object.s#",
+		"Rember your #character# custom character how about make all the #object.s# in #mari0# into a playable character if its done it will be in the zip called playable #object.s#",
 
 
 		"If you added the #object# that it says, I hope that you read it to put it, it would make me happy and you could also add the #object#, right? oh the #object# #game# please let me know for the next update and see if you will put them",
@@ -434,7 +434,7 @@
 		"Please #character# is #month# #mari0# #version#",
 
 
-		"will there is #objects#?",
+		"will there is #object.s#?",
 
 
 		"Add #object.capitalize# Suit And #object.capitalize# Suit",
@@ -444,7 +444,7 @@
 		"We need #object.s# from #game#",
 
 
-		"#name# we need #object.s# and #object.s# and also need to add #objects#!",
+		"#name# we need #object.s# and #object.s# and also need to add #object.s#!",
 		"#name# we need #object.s# and #object.s# and also need to #presenttenseverb# #object.s#!",
 
 
@@ -467,7 +467,7 @@
 		"I played the #dlc# DLC #timespan#, but the #object.s# didn't load.",
 		"I played the #dlc# DLC #timespan#, but the #object.s# were corrupted.",
 		"I played the #dlc# DLC #timespan# with the #character# custom character, but the game crashed when I did.",
-		"I played the #dlc# DLC #timespan#, but when I went back to the level editor I couldn't place any #objects#.",
+		"I played the #dlc# DLC #timespan#, but when I went back to the level editor I couldn't place any #object.s#.",
 		"I played the #dlc# DLC #timespan#, but I noticed there was no #object.s#.",
 		"I played the #dlc# DLC #timespan#, but there seemed to be a lack of #object.s#.",
 		"I played the #dlc# DLC #timespan#, but I was dissapointed to find no #object.s#.",
@@ -491,14 +491,14 @@
 		"The sprites for #objectsthe# look pretty lazy, #name# should make them look better!",
 		"The sprites for #character# look pretty lazy, #name# should make them look better!",
 
-		"I submitted better sprites for #objects# to #name#, but he said that they look bad! Why?!?!?!",
+		"I submitted better sprites for #object.s# to #name#, but he said that they look bad! Why?!?!?!",
 		"I submitted better sprites for #character# to #name#, but he said that they look bad! Why?!?!?!",
 
 
 		"when will #mari0# #version# come out",
 
 
-		"#objects# soon??",
+		"#object.s# soon??",
 
 
 		"Next thing: Can you make #game# the DLC in #mari0#?",
@@ -519,7 +519,7 @@
 		"Could someone create a #object#?\nPlease?",
 
 
-		"My idea for #name#'s mod are #objects# and #object.s#.",
+		"My idea for #name#'s mod are #object.s# and #object.s#.",
 
 
 		"Say, #name#.\nCan you add #object.s# from #game#?\nThere wouldn't be a mod without #game#.",
@@ -655,7 +655,7 @@
 		"Okay, I get it, Balloon Goomba this, Balloon Goomba that. But when do we get Balloon #object.s.capitalize#?",
 
 
-		"It would be horrible if #name# added #objects# to #mari0#!",
+		"It would be horrible if #name# added #object.s# to #mari0#!",
 
 
 		"Thanks for adding #object.s# #name#!\nWe really needed those!",
@@ -768,7 +768,7 @@
     
     "#name# is custom enemie god, he must recrate #object# from scractch!",
      
-    "Can I make a #game# mappack called #object.capitalize!",
+    "Can I make a #game# mappack called #object.capitalize#!",
      
     "Who here likes #object.s#??",
     
@@ -960,8 +960,8 @@
 		"Super Star{img https://i.imgur.com/oUbgylL.png}",
 		"Raccoon Leaf{img https://i.imgur.com/dlipzft.png}",
 		"Snake Block{img https://i.imgur.com/IULGxK8.png}",
-		"coding{img https://i.imgur.com/kQx0P8r.png}",
-		"code{img https://i.imgur.com/4nc1pf6.jpg}",
+		"coding{img https://i.imgur.com/4nc1pf6.jpeg}",
+		"code{img https://i.imgur.com/4nc1pf6.jpeg}",
 		"Mega Mushroom{img https://i.imgur.com/R5ZCYd5.png}",
 		"Piranha Creeper{img https://i.imgur.com/feLoPq1.jpg}",
 		"Spiny{img https://i.imgur.com/eDfp1dH.png}",
@@ -1106,8 +1106,8 @@
 		"the Super Stars{img https://i.imgur.com/oUbgylL.png}",
 		"the Raccoon Leafs{img https://i.imgur.com/dlipzft.png}",
 		"the Snake Blocks{img https://i.imgur.com/IULGxK8.png}",
-		"coding{img https://i.imgur.com/kQx0P8r.png}",
-		"the code{img https://i.imgur.com/4nc1pf6.jpg}",
+		"coding{img https://i.imgur.com/4nc1pf6.jpeg}",
+		"the code{img https://i.imgur.com/4nc1pf6.jpeg}",
 		"the Mega Mushrooms{img https://i.imgur.com/R5ZCYd5.png}",
 		"the Piranha Creepers{img https://i.imgur.com/feLoPq1.jpg}",
 		"the Spinies{img https://i.imgur.com/eDfp1dH.png}",
@@ -1796,3 +1796,4 @@
 		 "and everybody else who helped gave me ideas for this bot!"]
 
 }
+
