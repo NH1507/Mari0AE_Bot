@@ -247,7 +247,7 @@
 
 
 		"#name#. Add #object.s#. Now.",
-		"#name#. #presenttenseverbcaps# #object.s#. Now.",
+		"#name#. #presenttenseverb# #object.s#. Now.",
 
 
 		"Okay, but I want to play #mari0# on my #devices#. #name#, add support for it now!",
@@ -1792,7 +1792,9 @@
 		 "Aid0n, TheMushrunt, Evan.F, Critfish, Alesan99, A_Zalt, Sky, Kant, Swoof",
 		 "Remy, A Platypus in a Fedora, BetterDonutGamer, WilliamFrog, Megabound",
 		 "HansDenuevo, Hellfire, No1129, Reese Rivers, ArcadeGamer1929, Nathan Silver",
-		 "and everybody else who helped gave me ideas for this bot!"]
+		 "and everybody else who helped gave me ideas for this bot!",
+
+		 "no thanks to Twitter who locked my account once for",
+		"me suggesting Sašo to add Mario to Donkey Kong Country."]
 
 }
-
